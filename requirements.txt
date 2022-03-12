@@ -1,0 +1,13 @@
+# base
+fastapi
+python-dotenv
+uvicorn
+PyYAML
+
+# utils
+requests-html
+
+# dbs
+redis
+pymongo
+psycopg2-binary
